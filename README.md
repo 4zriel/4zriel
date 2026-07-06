@@ -8,17 +8,11 @@
 
 <br/>
 
-### [&nbsp; ▶ &nbsp; **Launch my interactive CV** &nbsp;](https://4zriel.github.io)
-
 [![Open interactive CV](https://img.shields.io/badge/4zriel.github.io-Interactive_CV-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://4zriel.github.io)
 
 </div>
 
 ---
-
-```console
-$ cat about.md
-```
 
 I've been building software for **10+ years**, currently as **Team / Tech Lead** of a 6-person
 frontend team at media-press.tv. My path runs from software testing → .NET fullstack → modern
