@@ -50,13 +50,22 @@ a1b9f3c  (07.2022 – present)  Team / Tech Lead — Senior Angular Developer @ 
 ```
 
 **Team / Tech Lead — Senior Angular Developer** · _07.2022 – present_
-- Lead a 6-person frontend team
-- Architecture: Angular 21+, Nx monorepo, NgRx
-- Code standards: code review, linting, PR policy
-- Technical roadmap & API design with the .NET backend team
-- Led migration of legacy AngularJS & Silverlight to modern Angular
+- Lead & mentor a 6-person frontend team — planning, coordinating work, and owning project delivery
+- Own the frontend architecture: Angular 21+, Nx monorepo, NgRx state management, shared component libraries
+- Define & enforce code standards: code review, linting, PR policy, shared conventions
+- Shape the technical roadmap and collaborate with the .NET backend team on API design
+- Lead the ongoing migration of legacy AngularJS & Silverlight systems to modern Angular
+- Grow the team through mentoring, technical guidance, and onboarding
 
-_Full interactive timeline → [4zriel.github.io](https://4zriel.github.io)_
+**Senior Angular Developer** · _01.2021 – 07.2022_
+- Designed & built scalable, maintainable Angular 13+ apps; complex NgRx state (effects, entity, router-store)
+- Drove refactoring into an Nx monorepo and built reusable UI components
+
+**Fullstack Developer (.NET / Angular)** · _01.2016 – 01.2021_
+- Full-stack web apps: AngularJS → Angular frontend, .NET / WCF backend, REST API integration
+- Led migration of legacy Silverlight systems to Angular; from mid-2018 focused increasingly on frontend
+
+_Full interactive timeline (all roles, PL/EN) → [4zriel.github.io](https://4zriel.github.io)_
 
 </details>
 
