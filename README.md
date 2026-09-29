@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=680&height=60&lines=%3E+whoami;Rafa%C5%82+K%C5%82osek;Senior+Angular+Developer+%2F+Tech+Lead" alt="Rafał Kłosek — Senior Angular Developer / Tech Lead" />
 
-`10+ years building scalable web apps · From AngularJS & .NET to modern Angular, Nx & NgRx · Team & Tech Lead`
+`15 years in IT · 10+ years as a developer · Angular 22 · Nx · NgRx SignalStore · Rust · Team & Tech Lead`
 
 📍 Katowice, Poland
 
@@ -14,14 +14,17 @@
 
 ---
 
-I've been building software for **10+ years**, currently as **Team / Tech Lead** of a 6-person
-frontend team at media-press.tv. My path runs from software testing → .NET fullstack → modern
-Angular architecture: **Nx** monorepos, **NgRx**, and leading migrations of legacy AngularJS &
-Silverlight systems. I care about clean architecture, code quality, and growing the people around me.
+I lead a 6-person frontend team at **media-press.tv**, where for the last decade I've been building one large platform —
+today a big **Angular 22 / Nx** monorepo with **NgRx SignalStore**, signals, Signal Forms and zoneless change detection.
+My path runs from software testing → .NET fullstack → modern Angular architecture, including migrating legacy
+AngularJS & Silverlight systems. I care about clean architecture, code quality, and growing the people around me.
 
-Off the clock I tinker with **Rust** ([RustyPace](https://github.com/4zriel/RustyPace)) and **Flutter**.
-_Fun fact:_ before software I earned a **M.Sc. in Biotechnology** and co-authored a scientific paper on
-biodegradable shape-memory polymers. 🧬
+Lately I spend a lot of time on **how a team works with AI coding agents on a big codebase**: repeatability through a
+deterministic harness rather than prompts, team knowledge written down for people *and* agents, and automated gates
+plus human review. I also write my own tooling in **Rust** to connect AI and our daily tools with Azure DevOps.
+
+Off the clock I tinker with **Rust** and **Flutter**. *Fun fact:* before software I earned an **M.Sc. in Biotechnology**
+and co-authored a scientific paper on biodegradable shape-memory polymers. 🧬
 
 ---
 
@@ -37,6 +40,17 @@ biodegradable shape-memory polymers. 🧬
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+
+### 🦀 Side projects
+
+| Project | What it does |
+|---|---|
+| [**RustyPace**](https://github.com/4zriel/RustyPace) · Rust · Ratatui | Terminal client for time reporting — fast, keyboard-driven time logging against Azure DevOps work items in 7pace Timetracker, without leaving the terminal. |
+| **Ogniwo** · Rust · *in active development* | Bridge between AI agents and Azure DevOps — feeds agents context from work items and pull requests via the ADO REST API, so they can do code review with the full task context and help manage tasks. |
 
 <details>
 <summary><b>💼 Experience — <code>git log --oneline</code></b></summary>
@@ -51,7 +65,7 @@ a1b9f3c  (07.2022 – present)  Team / Tech Lead — Senior Angular Developer @ 
 
 **Team / Tech Lead — Senior Angular Developer** · _07.2022 – present_
 - Lead & mentor a 6-person frontend team — planning, coordinating work, and owning project delivery
-- Own the frontend architecture: Angular 21+, Nx monorepo, NgRx state management, shared component libraries
+- Own the frontend architecture: Angular 22+, Nx monorepo, NgRx state management, shared component libraries
 - Define & enforce code standards: code review, linting, PR policy, shared conventions
 - Shape the technical roadmap and collaborate with the .NET backend team on API design
 - Lead the ongoing migration of legacy AngularJS & Silverlight systems to modern Angular
@@ -67,6 +81,10 @@ a1b9f3c  (07.2022 – present)  Team / Tech Lead — Senior Angular Developer @ 
 
 _Full interactive timeline (all roles, PL/EN) → [4zriel.github.io](https://4zriel.github.io)_
 
+### 🎤 Speaking
+
+- **Hubert AI Days** (internal, media-press.tv) — *How to use AI coding agents on a big codebase and stay alive*
+- 
 </details>
 
 <details>
@@ -83,15 +101,18 @@ _Full interactive timeline (all roles, PL/EN) → [4zriel.github.io](https://4zr
 
 <br/>
 
-Tworzę oprogramowanie od **ponad 10 lat**, obecnie jako **Team / Tech Lead** 6-osobowego zespołu
-frontendowego w media-press.tv. Moja ścieżka wiedzie od testowania, przez fullstack w .NET, do
-nowoczesnej architektury Angulara: monorepo **Nx**, **NgRx** i prowadzenia migracji legacy
-(AngularJS, Silverlight) do nowoczesnego Angulara. Zależy mi na czystej architekturze, jakości kodu
-i rozwoju zespołu.
+Prowadzę 6-osobowy zespół frontendowy w **media-press.tv**, gdzie od dekady rozwijam jedną dużą platformę — dziś
+to duże monorepo **Angular 22 / Nx** z **NgRx SignalStore**, signals, Signal Forms i zoneless change detection.
+Moja ścieżka wiedzie od testowania, przez fullstack w .NET, do nowoczesnej architektury Angulara, łącznie
+z migracją systemów legacy (AngularJS, Silverlight). Zależy mi na czystej architekturze, jakości kodu i rozwoju zespołu.
 
-Po godzinach dłubię w **Ruście** ([RustyPace](https://github.com/4zriel/RustyPace)) i **Flutterze**.
-_Ciekawostka:_ zanim trafiłem do IT, zrobiłem **magistra biotechnologii** i współtworzyłem publikację
-naukową o biodegradowalnych polimerach z pamięcią kształtu. 🧬
+Dużo czasu poświęcam temu, **jak zespół pracuje z agentami AI na dużej bazie kodu**: powtarzalność dzięki
+deterministycznemu środowisku zamiast promptów, wiedza zespołu zapisana dla ludzi *i* agentów, automatyczne bramki
+i review człowieka. Piszę też własne narzędzia w **Ruście**, które łączą AI i codzienną pracę z Azure DevOps.
+
+Po godzinach dłubię w **Ruście** i **Flutterze**. *Ciekawostka:* zanim trafiłem do IT, zrobiłem **magistra
+biotechnologii** i współtworzyłem publikację naukową o biodegradowalnych polimerach z pamięcią kształtu. 🧬
+
 
 **Pełne, interaktywne CV (z przełącznikiem PL/EN) → [4zriel.github.io](https://4zriel.github.io)**
 
